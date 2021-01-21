@@ -1,8 +1,8 @@
 ﻿# git-essentials
  
- ##Notes
+##Notes
  These are the notes
  
  
- ##Post-script
+##Post-script
  This is the post-script
