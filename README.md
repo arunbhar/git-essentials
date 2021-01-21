@@ -1,3 +1,3 @@
-﻿# This is the new stuff
-	New Stuff
+﻿# Git Essentials / Git for Everyone
+	This is a practice class
 
